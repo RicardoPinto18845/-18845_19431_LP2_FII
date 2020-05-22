@@ -1,0 +1,6 @@
+C:\Users\Ricardo\source\repos\ClassLibraryObjetos_Negocio\bin\Debug\ClassLibraryObjetos_Negocio.dll
+C:\Users\Ricardo\source\repos\ClassLibraryObjetos_Negocio\bin\Debug\ClassLibraryObjetos_Negocio.pdb
+C:\Users\Ricardo\source\repos\ClassLibraryObjetos_Negocio\obj\Debug\ClassLibraryObjetos_Negocio.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\ClassLibraryObjetos_Negocio\obj\Debug\ClassLibraryObjetos_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\ClassLibraryObjetos_Negocio\obj\Debug\ClassLibraryObjetos_Negocio.dll
+C:\Users\Ricardo\source\repos\ClassLibraryObjetos_Negocio\obj\Debug\ClassLibraryObjetos_Negocio.pdb

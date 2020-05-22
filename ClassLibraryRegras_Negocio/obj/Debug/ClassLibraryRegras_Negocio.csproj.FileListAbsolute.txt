@@ -1,0 +1,2 @@
+C:\Users\Ricardo\source\repos\ClassLibraryRegras_Negocio\obj\Debug\ClassLibraryRegras_Negocio.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\ClassLibraryRegras_Negocio\obj\Debug\ClassLibraryRegras_Negocio.csproj.CoreCompileInputs.cache
