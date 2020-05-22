@@ -1,0 +1,6 @@
+C:\Users\Ricardo\source\repos\ClassLibrary_Intermedia_Pessoas\bin\Debug\ClassLibrary_Intermedia_Pessoas.dll
+C:\Users\Ricardo\source\repos\ClassLibrary_Intermedia_Pessoas\bin\Debug\ClassLibrary_Intermedia_Pessoas.pdb
+C:\Users\Ricardo\source\repos\ClassLibrary_Intermedia_Pessoas\obj\Debug\ClassLibrary_Intermedia_Pessoas.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\ClassLibrary_Intermedia_Pessoas\obj\Debug\ClassLibrary_Intermedia_Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\ClassLibrary_Intermedia_Pessoas\obj\Debug\ClassLibrary_Intermedia_Pessoas.dll
+C:\Users\Ricardo\source\repos\ClassLibrary_Intermedia_Pessoas\obj\Debug\ClassLibrary_Intermedia_Pessoas.pdb
